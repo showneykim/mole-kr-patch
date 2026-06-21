@@ -9,6 +9,12 @@ locale slot with Korean**. Select Japanese in-game and the UI appears in Korean.
 
 > ⚠️ Unofficial patch. For use only with a **legally owned copy** of the game. See [DISCLAIMER.md](DISCLAIMER.md).
 
+> 🤖 Nearly the entire project — reverse-engineering, the font fix, translating 1,300 strings, exhaustive verification, and the docs — was carried out with **[Claude Code](https://claude.com/claude-code)**. The full human–AI process and its limits are written up in **[MADE-WITH-CLAUDE-CODE.md](MADE-WITH-CLAUDE-CODE.md)**.
+
+![M.O.L.E Korean patch — main menu](docs/img/main-menu.jpg)
+
+<sub>Main menu in Korean (Play · Settings · Quit · Continue)</sub>
+
 ---
 
 ## ⚡ Quick install (prebuilt)
@@ -24,7 +30,7 @@ locale slot with Korean**. Select Japanese in-game and the UI appears in Korean.
 **To uninstall**, delete the `Mole-Windows_P.pak` file. It never overwrites originals.
 
 ```
-SHA256  4fca7ae0c9d9c07cc96054adf472f58ff4af0b65553257aa79b203637a8a859a
+SHA256  6032dff4b38597ea0072c1dd6840a32cc4e852a00b5b390fa1621c3d140a9a8f
 ```
 
 ## 🔧 Build from source
