@@ -8,10 +8,42 @@ Steam 심리 호러 게임 **[M.O.L.E](https://store.steampowered.com/app/406451
 
 > 🤖 이 패치의 거의 모든 과정 — 역공학·폰트 해결·1,300개 문자열 번역·전수 검증·문서화 — 이 **[Claude Code](https://claude.com/claude-code)로 수행**되었습니다. 사람-AI 협업의 전 과정과 한계는 **[MADE-WITH-CLAUDE-CODE.md](MADE-WITH-CLAUDE-CODE.md)** 에 정리되어 있습니다.
 
-![타이틀 화면 — 한국어 적용](docs/img/title.png)
+![M.O.L.E 한국어 패치 — 메인 메뉴](docs/img/main-menu.jpg)
 
-<!-- 추가 인게임 스크린샷: docs/img/ 에 넣고 아래 주석을 해제하세요 -->
-<!-- ![인게임](docs/img/ingame.png) -->
+<sub>메인 메뉴: 플레이 · 설정 · 종료 · 이어하기 모두 한국어로 적용된 모습</sub>
+
+<details>
+<summary>📷 <b>인게임 한국어 화면 더 보기</b> (기계 UI · 스토리 스포일러 없음)</summary>
+
+<br>
+
+굴착기 운용 단말·항법 인터페이스 등 **기계 UI 화면**입니다. 줄거리 노출은 없습니다.
+
+![데이터 전송 터미널](docs/img/terminal.jpg)
+*데이터 전송 시스템 — 파일 목록부터 `[스페이스] 파일 전송` 조작 안내까지 한국어*
+
+![항법 터미널](docs/img/navigation.jpg)
+*좌표 전송 항법 화면 — `완료` 버튼*
+
+![카세트 단말기](docs/img/cassette.jpg)
+*카세트 단말기 — `카세트없음` 표시와 `긴급 연락처` 메모*
+
+</details>
+
+<details>
+<summary>⚠️ <b>스토리 텍스트 번역 예시</b> (스포일러 주의 — 클릭하면 펼쳐집니다)</summary>
+
+<br>
+
+> 🚨 아래는 게임 속 **편지·문서의 번역 예시**입니다. **줄거리 핵심 단서가 포함**되어 있으니, 직접 플레이로 만나고 싶으시면 펼치지 마세요.
+
+![등장인물의 편지](docs/img/story-letter.jpg)
+*편지 전문이 자연스러운 한국어로 — 서사 텍스트 번역 품질 예시*
+
+![게임 내 문서](docs/img/signal-doc.jpg)
+*게임 내 문서(절차서) 번역 예시*
+
+</details>
 
 ---
 
