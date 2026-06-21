@@ -72,7 +72,7 @@ Steam 심리 호러 게임 **[M.O.L.E](https://store.steampowered.com/app/406451
 
 > 무결성 확인 (선택):
 > ```
-> SHA256  6032dff4b38597ea0072c1dd6840a32cc4e852a00b5b390fa1621c3d140a9a8f
+> SHA256  0276bf9a373b4b9ad908cab45f51e1d8621d57ef08f301e805571de3aacd17f4
 > ```
 
 ---

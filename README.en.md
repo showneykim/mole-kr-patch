@@ -30,7 +30,7 @@ locale slot with Korean**. Select Japanese in-game and the UI appears in Korean.
 **To uninstall**, delete the `Mole-Windows_P.pak` file. It never overwrites originals.
 
 ```
-SHA256  6032dff4b38597ea0072c1dd6840a32cc4e852a00b5b390fa1621c3d140a9a8f
+SHA256  0276bf9a373b4b9ad908cab45f51e1d8621d57ef08f301e805571de3aacd17f4
 ```
 
 ## 🔧 Build from source
